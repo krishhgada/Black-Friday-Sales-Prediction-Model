@@ -1,6 +1,8 @@
 # Black-Friday-Sales-Prediction-Model
+Analytics![Screenshot 2024-11-08 at 3 57 09 PM](https://github.com/user-attachments/assets/09eb665c-4e2a-42f7-b84f-2476841e0ca5)
 Black Friday Sales Prediction
-This repository contains my solution to the Black Friday Sales Prediction problem, a machine learning project from Analytics Vidhya's Black Friday Hackathon. The goal of this project is to predict the purchase amount for customers based on their demographics and product details, which can be used by the retail company, "ABC Private Limited," to personalize offers and improve customer engagement.
+This repository contains my solution to the Black Friday Sales Prediction problem, a machine learning project from 
+ Vidhya's Black Friday Hackathon. The goal of this project is to predict the purchase amount for customers based on their demographics and product details, which can be used by the retail company, "ABC Private Limited," to personalize offers and improve customer engagement.
 
 Problem Overview
 "ABC Private Limited," a retail company, aims to understand and predict customer purchase behavior for various high-volume products. The provided dataset includes:
